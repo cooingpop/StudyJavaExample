@@ -12,6 +12,7 @@ public class Restriction_1 {
 		System.out.println(st1.a);
 		Static st2 = new Static();
 		System.out.println(st2.a);
+		System.out.println(Static.a);
 	}
 
 }

@@ -16,6 +16,12 @@ public class Restriction_2 {
 	public static void main(String[] args) {
 		// TODO Auto-generated method stub
 
+		Bank bk1 = new Bank();
+		Bank bk2 = new Bank();
+		bk1.printMoney(1000, 100);
+		bk2.printMoney(0, 250);
+		bk1.printMoney(0, 800);
 	}
-
 }
+
+
